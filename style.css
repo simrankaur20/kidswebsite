@@ -1,0 +1,69 @@
+*{
+    background-color: black;
+    align-content: center;
+}
+.container{
+    margin:0px;
+    padding: 0%
+}
+div{
+    margin: 0px;
+}
+body{
+    background-color: black;
+}
+.myhead{
+    color: white;
+    text-align: center;
+    font-size: 5em;
+    font-weight: 900;
+    text-emphasis: shadow 9pt;
+}
+.head3{
+   margin: 20px;
+    color: qua;
+    margin-top: 0px;
+    color: aquamarine;
+    background-color: black;
+    margin-left: 550px;
+}
+img{
+    background-color: black;
+}
+.btnclass{
+    color:whitesmoke;
+    background-color:darkblue;
+    align-self: flex-end;
+}
+.drumpic{
+    margin: 20px;
+    padding: 20px;
+   margin-left: 500px;
+    height:15pc;
+    width: 20pc;
+
+}
+.text{
+     
+    width:20px;
+}
+/*
+.overlay {
+    position: absolute; 
+    bottom: 0; 
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5); /* Black see-through 
+    color: #f1f1f1; 
+    width: 100%;
+    transition: .5s ease;
+    opacity:0;
+    color: white;
+    font-size: 20px;
+    padding: 20px;
+    text-align: center;
+  }
+  
+   When you mouse over the container, fade in the overlay title 
+  .container:hover .overlay {
+    opacity: 1;
+  }*/
